@@ -1,0 +1,155 @@
+'9KP
+HP <
+hX <
+	@$5
+@!$	
+04c@ 4
+`%4B
+(%4B@ <
+4B@ 
+ %4e0
+4B@ <
+$ !$
+(!0B
+@(!0
+8%4c
+Q(!<
+(!&1
+Q(!<
+4Dp@
+4EpD4c
+@(!<
+4BTH
+ER4BOS
++H4BOR
+NE4BT*
+`$4B
+`$4B
+$B-`
+$B0h
+$B!t
+$B#x
+$B  
+$B)`
+$B(`
+$B2P
+$B4t
+$B38
+  !&
+C %$
+$B9$
+$Bax
+0!0B
+$B:P
+@ !<
+4B_<$
+`4f_
+4c_4
+$BG,
+$BB 
+$BA<
+X!0c
+b4IZ
+}4Ix@<
+ 8!$
+ 6p{
+@(!<
+@ !$B
+C`%%)
+X!$n
+eX#+
+C`%%)
+X!&N
+C`%%)
+C`%%)
+C`%%)
+C`%%)
+C`%%)
+X!$X
+C`%%)
+X!$X
+eX#%
+ 0!<
+ 0!'
+@(!<
+Hornet GMAC booting...
+ROM>:mdio download ready
+Hornet USB booting...
+DTD->
+next_dtd->
+size_ioc_status
+BUF->
+next->
+Send WatchDog Notify through EndPt 3...
+Address and Endpoints are configured
+USB_set_configuration...
+addr
+size
+Jump now to addr->
+now start to receive data at addr, length
+FIRMWARE_DOWNLOAD_COMP
+bUSBPhyBias=0x%x
+VID=0x%x,PID=0x%x
+iManufacturer=0x%x,iProduct=0x%x,iSerialNumber=0x%x
+bMaxPower=0x%x
+-> WATCHDOG_RESET
+-> WARM_START
+-> COLD_START
+Default State
+started receiving bytes %d
+completed receiving bytes
+Firmware Download length %d
+Firmware Exec Address %x
+Firmware checksum 0x%x
+Firmware Download is good 
+COMMAND TO START FIRMWARE RECEIVED 
+Firmware checksum failed - re negotiating, 0x%x!=0x%x 
+0123456789
+0123456789abcdef
+0123456789ABCDEF
+<null>
+offset[%d]: %d
+checksum fail: %08x
+Floating point
+Coprocessor 2 implementation specific
+CorExtend Unusable
+Precise Coprocessor 2
+Ref to WatchHi,WatchLo
+Machine checkcore
+Cache error
+Interrupt
+TLB modification exception
+TLB(load or instruction fetch)
+TLB(store)
+Address error(load or instruction fetch)
+Address error(store)
+Bus error(instruction fetch)
+Bus error(data reference: load or store)
+Syscall
+Breakpoint
+Reserved instruction
+Coprocessor Unusable
+Arithmetic Overflow
+Trap
+ExcCode %02x -> %s
+EPC %08x, BadVAddr %08x, Cause %08x, Status %08x
+R0 (r0) = %08x  R8 (t0) = %08x  R16(s0) = %08x  R24(t8) = %08x
+R1 (at) = %08x  R9 (t1) = %08x  R17(s1) = %08x  R25(t9) = %08x
+R2 (v0) = %08x  R10(t2) = %08x  R18(s2) = %08x  R26(k0) = %08x
+R3 (v1) = %08x  R11(t3) = %08x  R19(s3) = %08x  R27(k1) = %08x
+R4 (a0) = %08x  R12(t4) = %08x  R20(s4) = %08x  R28(gp) = %08x
+R5 (a1) = %08x  R13(t5) = %08x  R21(s5) = %08x  R29(sp) = %08x
+R6 (a2) = %08x  R14(t6) = %08x  R22(s6) = %08x  R30(fp) = %08x
+R7 (a3) = %08x  R15(t7) = %08x  R23(s7) = %08x  R31(ra) = %08x
+[%08x]
+  %08x
+ERROR: %s, %d
+LzmaDecode.c
+ERROR, %s, %d
+Not enough buffer for decompression
+Can not read from source buffer
+Stream with EOS marker is not supported
+Too big uncompressed stream
+Incorrect stream properties
+LZMA properties buffer is not enough: %d
+Decoding error = %d

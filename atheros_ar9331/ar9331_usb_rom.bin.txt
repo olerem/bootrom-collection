@@ -1,0 +1,5 @@
+grabbed with
+OpenOCD:
+start target in USB boot mode (GPIO1 down).
+GPIO11 up to enable EJTAG mode.
+dump_image ar9331_usb_rom.bin 0xbfc00000 0x8000

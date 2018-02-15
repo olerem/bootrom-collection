@@ -3,3 +3,15 @@ OpenOCD:
 start target in USB boot mode (GPIO1 down).
 GPIO11 up to enable EJTAG mode.
 dump_image ar9331_usb_rom.bin 0xbfc00000 0x8000
+# Chip Revision ID
+0xb8060090: 00000111
+
+Information on the SoC:
+Atheros
+AR9331-AL3A
+FK6430BD
+1643
+TAIWAN
+
+Board:
+DPTechnics DPT-Board-v1

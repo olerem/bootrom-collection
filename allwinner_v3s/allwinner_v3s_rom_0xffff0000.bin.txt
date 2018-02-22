@@ -1,0 +1,8 @@
+grabbed with
+OpenOCD:
+dump_image allwinner_v3s_rom_0xffff0000.bin 0xffff0000 0x10000
+
+Information on the SoC:
+Allwinner
+V3s
+F8187BA

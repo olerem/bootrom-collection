@@ -1,0 +1,10 @@
+[    0.614216] 5 tp-link partitions found on MTD device spi0.0                 
+[    0.619918] Creating 5 MTD partitions on "spi0.0":                          
+[    0.624783] 0x000000000000-0x000000020000 : "u-boot"                        
+[    0.631215] 0x000000020000-0x0000001533f4 : "kernel"                        
+[    0.637868] 0x0000001533f4-0x0000007f0000 : "rootfs"
+[    0.644444] mtd: device 2 (rootfs) set to be root filesystem
+[    0.650278] 1 squashfs-split partitions found on MTD device rootfs          
+[    0.656575] 0x000000390000-0x0000007f0000 : "rootfs_data"
+[    0.663632] 0x0000007f0000-0x000000800000 : "art"
+[    0.670046] 0x000000020000-0x0000007f0000 : "firmware"  

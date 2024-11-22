@@ -1,0 +1,392 @@
+Copyright 2001-2002 Atheros Communications, Inc.
+0d$		
+0l<	
+0h$	
+0d<	
+0h$	
+0p<	
+5)0x
+ar531x rev 
+ firmware startup...
+SDRAM TEST...
+PASSED
+FAILED at address: 
+ exp 
+ got 
+panic: romStart failed!
+0123456789abcdef<
+NMI (watchdog): ErrorPC: 
+sysConsoleDump: type 
+      epc: 
+ bva: 
+ sr:  
+ cse: 
+  R0: r0:  
+ at:  
+ v0:  
+ v1:  
+  R4: a0:  
+ a1:  
+ a2:  
+ a3:  
+  R8: t0:  
+ t1:  
+ t2:  
+ t3:  
+ R12: t4:  
+ t5:  
+ t6:  
+ t7:  
+ R16: s0:  
+ s1:  
+ s2:  
+ s3:  
+ R20: s4:  
+ s5:  
+ s6:  
+ s7:  
+ R24: t8:  
+ t9:  
+ k0:  
+ k1:  
+ R28: gp:  
+ sp:  
+ fp:  
+ ra:  
+trying NMI callback: 
+X@!)
+<	UU5)
+335J
+X@!)
+	@%5
+$ck0
+b8!,
+b@%1
+ck 4B
+` !$
+$Be`
+`(!$
+Rjx-"
+BP%%)
+BP%%)
+BP%%)
+DP%%"
+EP%%"
+"H#1
+(H#-"
+BP%%)
+BP%%)
+BP%%)
+DP%%"
+EP%%"
+#H#1
+BP%%)
+BP%%)
+BP%%)
+DP%%"
+EP%%"
+h#(b
+`#1)
+`#1)
+Qu$H
+ (!&
+$cfP
+$cfd
+S&0B
+S&0B
+ (!$
+F !2#
+@8!9
+P!2#
+$B$$
+$cg 
+$cgH
+`ACI $Header: I:/rtos/WG102-4-16/ar531x/rcs/ar531x.h 1.1 2004/08/26 05:06:28 00578 Exp $
+VxWorks
+5.4.2
+VxWorks5.4.2
+Nov 11 2004, 19:00:31
+oversubscribed dynamic bit lengths tree
+incomplete dynamic bit lengths tree
+oversubscribed literal/length tree
+incomplete literal/length tree
+invalid distance code
+invalid literal/length code
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid bit length repeat
+[Xunknown compression method
+invalid window size
+incorrect header check
+need dictionary
+incorrect data check
+.data
+e@Copyright 1984-1996 Wind River Systems, Inc.
+This program contains confidential information of Wind River Systems, Inc.
+and disclosure and copying are prohibited.
+fYtc
+i2cU
+wW$|Q
+"|t&
+#dQb4
+V	-0(
+I`lOX
+Oa\O
+CVi-
+$W%eg
+'3F&-
+^gN|
+om86
+uVx1
+z_4x
+	M'_4
+7+<2z,#
+m^5_
+r^{?9
+o4o2
+rG\9
+^Q?a`
+_[%^R0
+;seU|
+&"!#
+E~oZ}
+g]ru
+f<7or}z~
+{r8>Q
+9SX&Ww
+u>;l
+srq?
+?K#5t"b
+>	9*H
+_n	o
+]mY \
+4%&5
+5V9y
+Q|8d
+*<}`
+)X:^
+Ut~xon!9
+LW`]
+i2d\c
+Tn=%lz
+]a^S
+ ],}
+s2QJ
+g|03
+gL`]
+Vtd+
+GhFt
+M1oc
+\9d<j
+7Qi~
+'ty[
+1~QO
+bz|[
+/ Sc
+Z9?izO
+%lkPi
+%ul_
++E_/
+RvP2w
+Mg*2c.M
+w"te6
+h?yT
+XdB;L
+sK8!
+HQx^
+R4~!U
+*W[g
+`oIf
+Hk+H{gA
+ m[A
+#mcA
+.WeR
+>A|@V
+J^w*
+XC>ot
+j%_q<`
+}G_$
+u12fn
+o2C2K}ti
+W:!5
+JTSDp
+_4XeT
+dHtNK
+EtZD
+WI[,
+MoC95
+e/0x
+a^WvX
+G(\x
+g1|^
+;cB?
+Ql7\
+}~Rq
+q%Cq
+?x3v
+tDl>-f
+#tW 
++A;n
+w;^H
+:Juw
+p.q2]
+5hc3
+uHsT
+_*9I
+h1=L
+4MTw
+WrOt8G
+:wK7
+8ZJF
+g$2>
+LpZ}
+^RT^
+wvXt
+A{m+x;
+#l!<
+^G\Z
+M;`50?
+5Jm>
+d2Khi
+DZXvu
+w&yn
+-O/h[
+ALoPv
+M,kk
+<s7:'>
+I4.>C|
+Qr_.-
+:~mA
+}9O$
+o"wd
+/Pd/
+-v[w
+4%~b
+{G)u
+iXwjX
+OiX)',=n?
+Lo!L
+,xVJ
+iW*f
+J;PU
+x]bc
+[&9 o
+;pU3
+*M+?
+=<z>
+Z,:N
+"p?3
+jzh,\k
+<8$p
+ur(S
+eF1[^
+CkQ}
+Mco4T
+5)/S
+3A`P
+[?rf
+__|.
+L{X>
+oqi\
+*moy
+q PCw
+%7+~
+<R#v
+oZa>
+)y{N
+&e'I
+a}}"%g&
+]5sp
+4Ygi
+cb7z:=N
+uK}~e
+V|Jl
+.on!7
+."WmI
+/wc}
+;g0~
+LNC}+
+-(s#
+eOyf
+!Mp[W
+ razPV
+'Y_#w
+s2UK
+<5pr
+(1)w
+kWuv
+mRz3
+{1]8
+A^#1
+bku|
+U=5o
+.E>m
+vD@;
+6{LR
+]R:P
+_?!w&
+?bC$
+D>e3p
+!goJ
+i=vV
+nw^?e
+,sl:
+{N7)
+*q-JS
+OI^'S
+6<2UM
+|_f/h
+G;nMn#
+D<duS0y
+{x]-
+mL_x
+K|i;
+ex\7
+P[c7
+K0fr
+Djy.
+kG=uP
+*pV`
+=-o-q
+u+1oO
+k)-C
+!nYA>
+)z.z
+<mQ:
+]71w
+.~.s
+y_Cx
+OAvQ
+wCl{]r
+Zy[g
+""k@
+[mrW
+{[N_x
+|h/r
+)Q_pi
+Q*P9A
+qm$|
+-7y5J
+_JPF
+.w1`
+CB	N
+%SE~
+->-8
+o*.#
+0em%
+PqY4
+ck3e
+`owc
+de$&
+g>i;
+iSbC
+l=N[
+.A,L
+<}{@
+k(O,Y
+[Q/5
+]#ks
+w8>#k
+LJ0+
+.x}v
